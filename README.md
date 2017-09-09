@@ -36,12 +36,14 @@ Topic Overview
 1.	Introduction to the course, syllabus
 2.	Installing Python
 3.	Python tutorial
+
 Learning Objectives
 1.	Explain course learning outcomes, topics and rules
 2.	Explain assessment policies and grade calculation
 3.	Give an overview of programming languages
 4.	Show how to install and use a Python interpreter
 5.	Give a short tutorial on using Python
+
 Learning Tasks
 1.	Watch lecture videos
 2.	Read the syllabus
@@ -56,15 +58,17 @@ Topic Overview
 2.	Basic Python syntax
 3.	Keyboard input
 4.	Definite loops
- Learning Objectives
-•	Understand and apply an orderly software development process.
-•	Understand, design and modify programs following the input, process, output (IPO) pattern.
-•	Understand and apply the rules for forming valid Python identifiers and expressions.
-•	Understand and write Python statements to:
-o	Output information to the screen
-o	Assign values to variables
-o	Get numeric information entered from the keyboard
-o	Perform a counted loop
+
+Learning Objectives
+1.	Understand and apply an orderly software development process.
+2.	Understand, design and modify programs following the input, process, output (IPO) pattern.
+3.	Understand and apply the rules for forming valid Python identifiers and expressions.
+4.	Understand and write Python statements to:
+	* Output information to the screen
+	* Assign values to variables
+	* Get numeric information entered from the keyboard
+	* Perform a counted loop
+
 Learning Tasks
 1.	Watch lecture videos.
 2.	Read pages Chapter 2 and Sections 4.2, 5.11, 7.1 and 7.2  from “Think Python”.
@@ -81,6 +85,7 @@ Topic Overview
 3.	Accumulator and counter patterns
 4.	Limitations of computer arithmetic, handling large numbers
 5.	Conditional execution
+
 Learning Objectives
 •	Provide explanations and examples which will enable students to write programs that process numeric data, using math library, accumulator and counter patterns and conditional statements.
 
@@ -96,6 +101,7 @@ Python Language Reference:
 •	The power operator
 •	Unary arithmetic operations
 •	Binary arithmetic operations
+
 Python Standard Library
 •	9.2 Mathematical functions
 _____________________________________
@@ -105,13 +111,15 @@ Topic Overview
 1.	String and list data types
 2.	Operations on strings and lists
 3.	File processing
+
 Learning Objectives
-•	Understand the string and list data types and how they are represented in the computer.
-•	Process strings and lists using built-in functions and methods.
-•	Apply sequencing and indexing to Python strings and lists.
-•	Apply string formatting to produce program output that is pretty and informative.
-•	Understand and use file processing concepts and techniques.
-•	Understand and write programs that process textual information.
+1.	Understand the string and list data types and how they are represented in the computer.
+2.	Process strings and lists using built-in functions and methods.
+3.	Apply sequencing and indexing to Python strings and lists.
+4.	Apply string formatting to produce program output that is pretty and informative.
+5.	Understand and use file processing concepts and techniques.
+6.	Understand and write programs that process textual information.
+
 Learning Tasks
 1.	Watch lecture videos.
 2.	Read chapters 8 (Strings) and 10 (Lists) from the textbook “Think Python”
@@ -171,6 +179,7 @@ Topic Overview
 2.	Multi-way decisions
 3.	Exceptions
 4.	Reading: ‘Think Python’ textbook, Chapter 3, Sections 5.2 – 5.7 (pp. 40-43)
+
 Python Documentation:
 •	https://docs.python.org/3.6/tutorial/controlflow.html#if-statments 
 •	https://docs.python.org/3.6/tutorial/controlflow.html#boolean-operations-and-or-not 
@@ -182,11 +191,13 @@ Topic Overview
 1.	Definite and indefinite loops
 2.	Interactive and sentinel loops
 3.	Nested and post-test loops
+
 Learning Objectives
 1.	Understand and use the concepts of definite and indefinite loops as they are realized in the Python for and while statements.
 2.	Understand and use the programming patterns interactive loop and sentinel loop and their implementations using a Python while statements
 3.	Understand and use the programming pattern end-of-file loop and ways of implementing such loops in Python.
 4.	Design and implement solutions to problems involving loop patterns including nested loop structures.
+
 Learning Tasks
 1.	Watch and understand Module 7 videos
 2.	Read Chapter 7 (Iteration) from the text “Think Python”
@@ -246,18 +257,16 @@ Learning Objectives
 
 Learning Tasks
 1.	Watch and understand lecture videos.
-2.	Read short numpy tutorial:
-https://engineering.ucsb.edu/~shell/che210d/numpy.pdf 
+2.	Read short numpy tutorial: https://engineering.ucsb.edu/~shell/che210d/numpy.pdf 
 3.	Practice with programming examples presented in the lectures
 4.	Participate in discussions #9
 5.	Complete on-line quiz #9
 6.	Complete and submit homework assignment #9
 
-
-•	NumPy book:
-http://csc.ucdavis.edu/~chaos/courses/nlp/Software/NumPyBook.pdf 
-•	Pandas (longer book): Chapter 6: 10 minutes to Pandas, pp 249-271. 
-http://pandas.pydata.org/pandas-docs/version/0.17.0/pandas.pdf 
+NumPy book: 
+* http://csc.ucdavis.edu/~chaos/courses/nlp/Software/NumPyBook.pdf 
+Pandas (longer book): Chapter 6: 10 minutes to Pandas, pp 249-271. 
+* http://pandas.pydata.org/pandas-docs/version/0.17.0/pandas.pdf 
 	
 _________________________________________________________________________ 
 
@@ -287,12 +296,13 @@ Learning Tasks
 __________________________________________________________________________  
 
 ### Module 11: PLOTTING
-Plotting
+
 Topic Overview
 1.	Python package "matplotlib"
 2.	Figure object and subplots
 3.	Plottine Series and DataFrames
 4.	Handling missing data
+
 Learning Objectives
 1.	Understand and use matplotlib in making publication-quality plots.
 2.	Plot Series and DataFrame objects as lines, bars and scatter plots.
@@ -300,10 +310,8 @@ Learning Objectives
 
 Learning Tasks
 1.	Watch lecture videos.
-2.	Read tutorial available at:
-https://www.labri.fr/perso/nrougier/teaching/matplotlib/ 
-3.	Learn how to use matplotlib online documentation: 
-http://matplotlib.org/ 
+2.	Read tutorial available at: https://www.labri.fr/perso/nrougier/teaching/matplotlib/ 
+3.	Learn how to use matplotlib online documentation: http://matplotlib.org/ 
 4.	Participate in discussion using Canvas Discussion Board.
 5.	Complete on-line Quiz #11.
 6.	Complete homework assignment #11.
@@ -311,7 +319,6 @@ http://matplotlib.org/
 _____________________________________________________________________
 
 ### Module 12: OBJECT ORIENTED CONCEPTS
-Object oriented concepts
 Topic Overview
 1.	Objects and classes
 2.	Creating classes
