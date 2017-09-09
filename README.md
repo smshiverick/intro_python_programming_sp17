@@ -1,6 +1,6 @@
 ## COURSE: INFO-I 590 (34130): Python 						
 ### Instructor: Vel Malbasa 	 Spring 2017
-### Visiting Professor, Computer Science
+#### Visiting Professor, Computer Science
 #### School of Informatics and Computing, Indiana University
 
 ### Course Description/Overview:
